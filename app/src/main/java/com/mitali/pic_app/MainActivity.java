@@ -10,8 +10,8 @@ public class MainActivity extends AppCompatActivity {
     
     public void change(View view){
         ImageView iv= findViewById(R.id.imageView);
-        //iv.setImageResource(R.drawable.img_2);
-        iv.setImageResource(R.drawable.img);
+        iv.setImageResource(R.drawable.img_2);
+        //iv.setImageResource(R.drawable.img);
     }
 
 
